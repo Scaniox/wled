@@ -1,0 +1,4 @@
+{
+  "name": "claude_dualwake_deepsleep",
+  "build": { "libArchive": false }
+}
